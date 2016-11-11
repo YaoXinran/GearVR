@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\transition_view.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout\\transition_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\settings_button.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout\\settings_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\back_button.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout\\back_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout\\ui_layer.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ui_layer_with_portrait_support.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout\\ui_layer_with_portrait_support.xml"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

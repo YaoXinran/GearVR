@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 71,
+                    "endOffset": 122
+                },
+                "from": {
+                    "file": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-360photo\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 162,
+                        "endColumn": 71,
+                        "endOffset": 229
+                    }
+                }
+            }
+        ]
+    }
+]

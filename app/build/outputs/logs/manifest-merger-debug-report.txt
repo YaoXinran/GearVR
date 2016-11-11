@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:16:1-45:12
+	package
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:17:7-40
+	android:versionName
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:19:7-32
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:18:7-30
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:16:11-69
+uses-sdk
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:21:5-23:41
+MERGED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:5:5-73
+MERGED from [:google-vr-common:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-common\AndroidManifest.xml:3:5-73
+	android:targetSdkVersion
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:23:9-38
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:22:9-35
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:25:5-80
+MERGED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:26:22-76
+application
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:30:7-44:19
+MERGED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:36:5-42:19
+MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:31:5-32:19
+MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:31:5-32:19
+	android:label
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:30:20-52
+	android:icon
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:31:20-56
+	android:allowBackup
+		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:37:9-35
+	android:largeHeap
+		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:40:9-33
+	android:theme
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:32:20-51
+meta-data#com.samsung.android.vr.application.mode
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:34:9-100
+	android:value
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:34:75-98
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:34:20-74
+activity#org.gearvrf.gvr360Photo.Minimal360PhotoActivity
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:35:9-43:20
+	android:screenOrientation
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:36:19-56
+	android:label
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:38:19-51
+	android:launchMode
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:37:19-50
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:35:19-57
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:39:13-42:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:40:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:41:27-74
+uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
+ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:5-88
+	android:name
+		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:22-85
+uses-feature#0x00030000
+ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:32:5-34:35
+MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:27:5-29:35
+MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:27:5-29:35
+	android:glEsVersion
+		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:33:9-41
+	android:required
+		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:34:9-32
+uses-feature#0x00020000
+ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:5-77
+REJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\src\main\AndroidManifest.xml:6:5-77
+	android:glEsVersion
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:19-51
+	android:required
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:52-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:5-80
+	android:name
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.NFC
+ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:5-61
+	android:name
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:22-59
+uses-feature#android.software.vr.mode
+ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:5-85
+	android:required
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:59-83
+	android:name
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:19-58
+uses-feature#android.hardware.vr.high_performance
+ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:5-97
+	android:required
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:71-95
+	android:name
+		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-360photo\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:19-70
