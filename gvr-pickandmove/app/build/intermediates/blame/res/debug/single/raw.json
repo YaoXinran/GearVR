@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertexskinning.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\vertexskinning.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\hud_console.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\hud_console.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\directshadowlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\directshadowlight.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\addlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\addlight.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\niceday.jpg",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\src\\main\\res\\raw\\niceday.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_norm_multitex.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\pos_norm_multitex.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\posteffect_quad.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\posteffect_quad.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spotshadowlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\spotshadowlight.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inverted_colors_fragment.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\inverted_colors_fragment.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\phong_surface_multitex.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\phong_surface_multitex.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\sphere.obj",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\src\\main\\res\\raw\\sphere.obj"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\normalmap.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\normalmap.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\spotlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\spotlight.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\vertex_template.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_only.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\pos_only.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template_multitex.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\vertex_template_multitex.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\depth_shader.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\depth_shader.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beach.zip",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\src\\main\\res\\raw\\beach.zip"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\inverted_colors_vertex.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\inverted_colors_vertex.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_template_multitex.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\fragment_template_multitex.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\directlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\directlight.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\photosphere.jpg",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\src\\main\\res\\raw\\photosphere.jpg"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_shadow.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\vertex_shadow.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pos_norm_tex.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\pos_norm_tex.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vertex_template_depth.vsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\vertex_template_depth.vsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\screenshot3d.zip",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\src\\main\\res\\raw\\screenshot3d.zip"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fragment_template.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\fragment_template.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\phong_surface.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\phong_surface.fsh"
+    },
+    {
+        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\raw\\pointlight.fsh",
+        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\raw\\pointlight.fsh"
+    }
+]
