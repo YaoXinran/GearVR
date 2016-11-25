@@ -26,29 +26,29 @@ public final class R {
 	}
 	public static final class raw {
 		public static final int addlight = 0x7f040000;
-		public static final int depth_shader = 0x7f040002;
-		public static final int directlight = 0x7f040003;
-		public static final int directshadowlight = 0x7f040004;
-		public static final int fragment_template = 0x7f040005;
-		public static final int fragment_template_multitex = 0x7f040006;
-		public static final int hud_console = 0x7f040007;
-		public static final int inverted_colors_fragment = 0x7f040008;
-		public static final int inverted_colors_vertex = 0x7f040009;
-		public static final int normalmap = 0x7f04000b;
-		public static final int phong_surface = 0x7f04000c;
-		public static final int phong_surface_multitex = 0x7f04000d;
-		public static final int pointlight = 0x7f04000f;
-		public static final int pos_norm_multitex = 0x7f040010;
-		public static final int pos_norm_tex = 0x7f040011;
-		public static final int pos_only = 0x7f040012;
-		public static final int posteffect_quad = 0x7f040013;
-		public static final int spotlight = 0x7f040016;
-		public static final int spotshadowlight = 0x7f040017;
-		public static final int vertex_shadow = 0x7f040018;
-		public static final int vertex_template = 0x7f040019;
-		public static final int vertex_template_depth = 0x7f04001a;
-		public static final int vertex_template_multitex = 0x7f04001b;
-		public static final int vertexskinning = 0x7f04001c;
+		public static final int depth_shader = 0x7f040001;
+		public static final int directlight = 0x7f040002;
+		public static final int directshadowlight = 0x7f040003;
+		public static final int fragment_template = 0x7f040004;
+		public static final int fragment_template_multitex = 0x7f040005;
+		public static final int hud_console = 0x7f040006;
+		public static final int inverted_colors_fragment = 0x7f040007;
+		public static final int inverted_colors_vertex = 0x7f040008;
+		public static final int normalmap = 0x7f04000a;
+		public static final int phong_surface = 0x7f04000b;
+		public static final int phong_surface_multitex = 0x7f04000c;
+		public static final int pointlight = 0x7f04000e;
+		public static final int pos_norm_multitex = 0x7f04000f;
+		public static final int pos_norm_tex = 0x7f040010;
+		public static final int pos_only = 0x7f040011;
+		public static final int posteffect_quad = 0x7f040012;
+		public static final int spotlight = 0x7f040013;
+		public static final int spotshadowlight = 0x7f040014;
+		public static final int vertex_shadow = 0x7f040015;
+		public static final int vertex_template = 0x7f040016;
+		public static final int vertex_template_depth = 0x7f040017;
+		public static final int vertex_template_multitex = 0x7f040018;
+		public static final int vertexskinning = 0x7f040019;
 	}
 	public static final class string {
 		public static final int action_settings = 0x7f080000;

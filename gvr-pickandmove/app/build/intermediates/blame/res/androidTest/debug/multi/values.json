@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\androidTest\\debug\\values\\values.xml",
+        "outputFile": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 124
                 },
                 "from": {
-                    "file": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
+                    "file": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\generated\\res\\resValues\\androidTest\\debug\\values\\generated.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,

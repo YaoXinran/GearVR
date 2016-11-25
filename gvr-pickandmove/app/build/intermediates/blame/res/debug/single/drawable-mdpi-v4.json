@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_close_white_24.png",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\transition.png",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\transition.png"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\transition.png",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\transition.png"
     },
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\framework-debug\\res\\drawable-mdpi-v4\\ic_launcher.png"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
     },
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\quantum_ic_settings_white_24.png"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\quantum_ic_close_white_24.png",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\drawable-mdpi-v4\\quantum_ic_close_white_24.png"
     }
 ]

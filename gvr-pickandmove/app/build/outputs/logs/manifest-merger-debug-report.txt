@@ -1,124 +1,124 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:18:1-51:12
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:18:1-51:12
 	package
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:20:5-38
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:20:5-38
 	android:versionName
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:22:5-30
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:22:5-30
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
 	xmlns:tools
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:19:5-51
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:19:5-51
 	android:versionCode
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:21:5-28
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:21:5-28
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:18:11-69
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:18:11-69
 uses-sdk
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:24:5-26:41
-MERGED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:23:5-25:41
-MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:23:5-25:41
-MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:23:5-25:41
-MERGED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:5:5-73
-MERGED from [:google-vr-common:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-common\AndroidManifest.xml:3:5-73
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:24:5-26:41
+MERGED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:backend_oculus-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:backend_daydream-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:23:5-25:41
+MERGED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:5:5-73
+MERGED from [:google-vr-common:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-common\AndroidManifest.xml:3:5-73
 	android:targetSdkVersion
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:26:9-38
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:26:9-38
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:25:9-35
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:25:9-35
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
+		INJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:28:5-80
-MERGED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:9:5-79
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:28:5-80
+MERGED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:28:22-77
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:28:22-77
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:29:5-79
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:29:5-79
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:29:22-76
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:29:22-76
 application
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:32:5-49:19
-MERGED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:36:5-42:19
-MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:31:5-32:19
-MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:31:5-32:19
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:32:5-49:19
+MERGED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:36:5-42:19
+MERGED from [:backend_oculus-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:31:5-32:19
+MERGED from [:backend_daydream-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:31:5-32:19
 	android:label
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:35:9-41
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:35:9-41
 	android:allowBackup
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:33:9-35
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:33:9-35
 	android:icon
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:34:9-38
-		REJECTED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:38:9-45
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:34:9-38
+		REJECTED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:38:9-45
 	android:largeHeap
-		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:40:9-33
+		ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:40:9-33
 	android:theme
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:36:9-40
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:36:9-40
 	tools:replace
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:32:18-46
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:32:18-46
 meta-data#com.samsung.android.vr.application.mode
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:9-100
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:9-100
 	android:value
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:75-98
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:75-98
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:20-74
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:37:20-74
 activity#org.gearvrf.pickandmove.PickandmoveActivity
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:38:9-48:20
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:38:9-48:20
 	android:screenOrientation
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:40:13-50
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:40:13-50
 	android:label
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:42:13-45
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:42:13-45
 	android:launchMode
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:41:13-44
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:41:13-44
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:39:13-71
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:39:13-71
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:43:13-47:29
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:43:13-47:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:44:17-69
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:44:17-69
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:44:25-66
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:44:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:46:17-77
+ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:46:17-77
 	android:name
-		ADDED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:46:27-74
+		ADDED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:46:27-74
 uses-permission#com.samsung.android.hmt.permission.READ_SETTINGS
-ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:5-88
+ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:5-88
 	android:name
-		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:22-85
+		ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:30:22-85
 uses-feature#0x00030000
-ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:32:5-34:35
-MERGED from [:backend_oculus-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:27:5-29:35
-MERGED from [:backend_daydream-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:27:5-29:35
+ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:32:5-34:35
+MERGED from [:backend_oculus-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_oculus-debug\AndroidManifest.xml:27:5-29:35
+MERGED from [:backend_daydream-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\backend_daydream-debug\AndroidManifest.xml:27:5-29:35
 	android:glEsVersion
-		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:33:9-41
+		ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:33:9-41
 	android:required
-		ADDED from [:framework-debug:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:34:9-32
+		ADDED from [:framework-debug:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\framework-debug\AndroidManifest.xml:34:9-32
 uses-feature#0x00020000
-ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:5-77
-REJECTED from C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\src\main\AndroidManifest.xml:6:5-77
+ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:5-77
+REJECTED from F:\code\Gear VR\GearVR\gvr-pickandmove\app\src\main\AndroidManifest.xml:6:5-77
 	android:glEsVersion
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:19-51
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:19-51
 	android:required
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:52-75
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:6:52-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:5-80
+ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:5-80
 	android:name
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:22-78
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:10:22-78
 uses-permission#android.permission.NFC
-ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:5-61
+ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:5-61
 	android:name
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:22-59
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:12:22-59
 uses-feature#android.software.vr.mode
-ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:5-85
+ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:5-85
 	android:required
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:59-83
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:59-83
 	android:name
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:19-58
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:15:19-58
 uses-feature#android.hardware.vr.high_performance
-ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:5-97
+ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:5-97
 	android:required
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:71-95
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:71-95
 	android:name
-		ADDED from [:google-vr-base:] C:\Users\CaCO3\Downloads\GearVRf-Demos\GearVRf-Demos-master\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:19-70
+		ADDED from [:google-vr-base:] F:\code\Gear VR\GearVR\gvr-pickandmove\app\build\intermediates\exploded-aar\google-vr-base\AndroidManifest.xml:17:19-70

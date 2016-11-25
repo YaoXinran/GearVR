@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\values-v19\\values-v19.xml",
+        "outputFile": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v19\\values-v19.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 111
                 },
                 "from": {
-                    "file": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-v19\\values.xml",
+                    "file": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\values-v19\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 0,

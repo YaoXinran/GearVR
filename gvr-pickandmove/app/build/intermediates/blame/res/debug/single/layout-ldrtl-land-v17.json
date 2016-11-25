@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\back_button.xml",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout-ldrtl-land-v17\\back_button.xml"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\settings_button.xml",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout-ldrtl-land-v17\\settings_button.xml"
     },
     {
-        "merged": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\settings_button.xml",
-        "source": "C:\\Users\\CaCO3\\Downloads\\GearVRf-Demos\\GearVRf-Demos-master\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout-ldrtl-land-v17\\settings_button.xml"
+        "merged": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\res\\merged\\debug\\layout-ldrtl-land-v17\\back_button.xml",
+        "source": "F:\\code\\Gear VR\\GearVR\\gvr-pickandmove\\app\\build\\intermediates\\exploded-aar\\google-vr-base\\res\\layout-ldrtl-land-v17\\back_button.xml"
     }
 ]
